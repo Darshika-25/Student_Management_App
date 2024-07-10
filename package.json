@@ -1,0 +1,21 @@
+{
+  "name": "@darshika.dev/student_management_app",
+  "version": "1.0.0",
+  "description": "This program is a simple student management system for the console that performs various tasks built with effective use of Inquirer and chalk library.",
+  "main": "app.js",
+  "type": "module",
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Darshika",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
